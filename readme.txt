@@ -1,4 +1,4 @@
-Rock! Paper! Scissors!
+/* Rock! Paper! Scissors! */
 
 - This program is still a work in progress.
 - Still working on the logic to ensure the program is fully functional
